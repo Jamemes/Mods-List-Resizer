@@ -1,0 +1,9 @@
+{
+	"name": "Mods List Resizer",
+	"description": "",
+	"author": "James",
+	"version": "1",
+	"hooks": [
+		{"hook_id": "lib/managers/menumanagerpd2",	"script_path": "modlist.lua"}
+	]
+}
