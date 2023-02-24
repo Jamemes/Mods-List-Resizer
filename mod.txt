@@ -5,5 +5,13 @@
 	"version": "1",
 	"hooks": [
 		{"hook_id": "lib/managers/menumanagerpd2",	"script_path": "modlist.lua"}
+	],
+	"updates" : [
+		{
+			"identifier" : "mods-list-resizer",
+			"host": {
+				"meta": "https://raw.githubusercontent.com/Jamemes/Mods-List-Resizer/meta/meta.json"
+			}
+		}
 	]
 }
