@@ -8,7 +8,7 @@
 	],
 	"updates" : [
 		{
-			"identifier" : "mods-list-resizer",
+			"identifier" : "mods_list_resizer",
 			"host": {
 				"meta": "https://raw.githubusercontent.com/Jamemes/Mods-List-Resizer/meta/meta.json"
 			}
